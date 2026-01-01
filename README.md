@@ -37,24 +37,6 @@ HerdingDog/
    └─ HerdingDog.dll (generado al compilar)
 ```
 
-## Instrucciones de Compilación
-
-1. **Abrir el proyecto**:
-   - Abre `Source/HerdingDog.csproj` en Visual Studio
-   - Asegúrate de tener .NET Framework 4.7.2
-
-2. **Configurar referencias**:
-   - Establece la variable de entorno `RimWorldDir` apuntando a la carpeta de instalación
-   - O modifica manualmente las rutas en `.csproj` para que apunten a:
-     - `RimWorldWin64_Data\Managed\Assembly-CSharp.dll`
-     - `RimWorldWin64_Data\Managed\0Harmony.dll`
-     - `RimWorldWin64_Data\Managed\UnityEngine.CoreModule.dll`
-
-3. **Compilar**:
-   - Selecciona "Release"
-   - Compila (Build > Build Solution)
-   - El DLL se generará en `Assemblies/HerdingDog.dll`
-
 ## Uso (Conceptual)
 
 El sistema funciona automáticamente una vez configurado:

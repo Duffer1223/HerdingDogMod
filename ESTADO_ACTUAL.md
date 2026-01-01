@@ -6,13 +6,12 @@
 
 1. **PastureManager no se registra**: Necesita Harmony o código para registrarse en Game
 2. **Componentes no se aplican**: Los patches XML no están correctos
-3. **Falta compilar**: El código C# necesita compilarse primero
 
-### Pasos Requeridos Antes de Usar:
+### Pasos Requeridos:
 
-1. ✅ Compilar el código C# (generar DLL)
-2. ❌ Registrar PastureManager (falta implementar)
-3. ❌ Aplicar componentes a animales (falta implementar correctamente)
+1. ✅ Código compilado
+2. ❌ Registrar PastureManager
+3. ❌ Aplicar componentes a animales
 4. ❌ Probar en el juego
 
 ### Lo que SÍ está listo:

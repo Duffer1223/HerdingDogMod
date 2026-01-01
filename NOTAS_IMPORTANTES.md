@@ -32,20 +32,6 @@ El TrainableDef "Pastoreo" existe, pero:
 - El perro necesita poder aprenderlo (depende de trainability)
 - Puede necesitar configuración adicional
 
-### 4. ⚠️ Falta compilar el código
-
-**PASO OBLIGATORIO**: Necesitas compilar el código C# primero:
-1. Abre `Source/HerdingDog.csproj` en Visual Studio
-2. Configura las referencias a RimWorld
-3. Compila en modo Release
-4. El DLL debe generarse en `Assemblies/HerdingDog.dll`
-
-### 5. ⚠️ Configuración manual requerida
-
-Incluso si todo funciona, el jugador necesita:
-- Crear zonas de corral y pastoreo manualmente
-- Asignar estas zonas a cada animal (no hay interfaz para esto todavía)
-- Entrenar al perro en "Pastoreo"
 
 ## ✅ Lo que SÍ funciona
 
@@ -59,14 +45,12 @@ Incluso si todo funciona, el jugador necesita:
 
 1. **Registrar PastureManager correctamente** (usando Harmony o código)
 2. **Aplicar componentes a animales** (usando patches XML correctos o código)
-3. **Compilar el código**
 4. **Probar en el juego**
 5. **Crear interfaz para configurar zonas y horario** (opcional pero importante)
 
 ## 📝 Recomendación
 
 **NO uses este mod en partidas importantes todavía**. Primero:
-1. Compila el código
 2. Prueba si carga sin errores
 3. Verifica que el PastureManager se registre
 4. Ajusta según sea necesario

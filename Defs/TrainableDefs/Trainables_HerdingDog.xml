@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <TrainableDef>
+    <defName>Pastoreo</defName>
+    <label>pastorear</label>
+    <description>Permite al perro autorizar el pastoreo de animales fuera de los corrales.</description>
+    <minBodySize>0.3</minBodySize>
+    <trainability>Intermediate</trainability>
+    <defaultTrainable>false</defaultTrainable>
+    <wantsTraining>true</wantsTraining>
+    <steps>12</steps>
+    <listOrder>110</listOrder>
+  </TrainableDef>
+</Defs>
+

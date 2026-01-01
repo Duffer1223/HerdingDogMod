@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Base para animales que pueden pastorear -->
+  <ThingDef ParentName="AnimalThingBase">
+    <defName>HerdingAnimalBase</defName>
+    <comps>
+      <li Class="HerdingDog.CompProperties_PastureAnimal"/>
+      <li Class="HerdingDog.CompProperties_PastureSchedule"/>
+    </comps>
+  </ThingDef>
+</Defs>
+

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Perro Pastor -->
+  <ThingDef ParentName="DogBase">
+    <defName>HerdingDog</defName>
+    <label>perro pastor</label>
+    <labelPlural>perros pastores</labelPlural>
+    
+    <race>
+      <body>Dog</body>
+      <baseBodySize>0.45</baseBodySize>
+      <baseHealthScale>1.0</baseHealthScale>
+      <lifeStageAges>
+        <li>
+          <def>AnimalBaby</def>
+          <minAge>0</minAge>
+        </li>
+        <li>
+          <def>AnimalJuvenile</def>
+          <minAge>0.333333343</minAge>
+        </li>
+        <li>
+          <def>AnimalAdult</def>
+          <minAge>0.6666667</minAge>
+        </li>
+      </lifeStageAges>
+      <wildness>0.0</wildness>
+      <packAnimal>false</packAnimal>
+      <herdAnimal>false</herdAnimal>
+      <predator>false</predator>
+      <canDoComplexWork>true</canDoComplexWork>
+      <trainability>Intermediate</trainability>
+      <baseHungerRate>0.8</baseHungerRate>
+      <trainableTags>
+        <li>Pastoreo</li>
+      </trainableTags>
+    </race>
+    
+    <statBases>
+      <MaxHitPoints>40</MaxHitPoints>
+      <MoveSpeed>6.0</MoveSpeed>
+      <CarryingCapacity>10</CarryingCapacity>
+      <Mass>5</Mass>
+      <AnimalLearnFactor>1.2</AnimalLearnFactor>
+      <MeleeWeapon_CooldownMultiplier>1.1</MeleeWeapon_CooldownMultiplier>
+      <MeleeWeapon_DamageMultiplier>0.8</MeleeWeapon_DamageMultiplier>
+    </statBases>
+    
+    <graphicData>
+      <texPath>Animals/Dog</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+    </graphicData>
+  </ThingDef>
+</Defs>

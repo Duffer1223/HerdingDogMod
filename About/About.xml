@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Herding Dog</name>
+  <author>Duffer Ojeda</author>
+  <packageId>duffer.herdingdog</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <description>
+Adds herding dogs that allow animals to graze outside pens using pasture zones.
+  </description>
+</ModMetaData>
+

@@ -3,17 +3,14 @@ using Verse;
 
 namespace HerdingDog
 {
-    public class PastureManager : GameComponent
+    public class PastureManager : MapComponent
     {
         private const int CheckInterval = 250; // Verificar cada 250 ticks (~4 segundos)
 
-        public PastureManager()
+        public PastureManager(Map map) : base(map)
         {
         }
 
-        public PastureManager(Game game)
-        {
-        }
         
         public override void ExposeData()
         {
@@ -21,9 +18,9 @@ namespace HerdingDog
             // No hay datos que guardar en este componente
         }
 
-        public override void GameComponentTick()
+        public override void MapComponentTick()
         {
-            base.GameComponentTick();
+            base.MapComponentTick();
 
             // Solo verificar cada CheckInterval ticks
             if (Find.TickManager == null || Find.TickManager.TicksGame % CheckInterval != 0) return;

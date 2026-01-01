@@ -52,13 +52,18 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="HerdingDog\AnimalComponentManager.cs" />
+    <Compile Include="HerdingDog\HerdingDogComp.cs" />
+    <Compile Include="HerdingDog\HerdingDogHarmony.cs" />
     <Compile Include="HerdingDog\HerdingDogMod.cs" />
     <Compile Include="HerdingDog\CompProperties_PastureAnimal.cs" />
     <Compile Include="HerdingDog\CompPastureAnimal.cs" />
     <Compile Include="HerdingDog\CompProperties_PastureSchedule.cs" />
     <Compile Include="HerdingDog\CompPastureSchedule.cs" />
+    <Compile Include="HerdingDog\PastureManagerPatch.cs" />
     <Compile Include="HerdingDog\PastureUtility.cs" />
     <Compile Include="HerdingDog\PastureManager.cs" />
+    <Compile Include="HerdingDog\Zone_Pasture.cs" />
     <Compile Include="IA\JobDriver_HerdingDog.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

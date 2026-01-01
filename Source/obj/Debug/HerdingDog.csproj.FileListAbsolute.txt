@@ -1,0 +1,7 @@
+D:\Juegos\RimWorld.v1.6.4633\game\Mods\HerdingDog\Source\obj\Debug\HerdingDog.csproj.AssemblyReference.cache
+D:\Juegos\RimWorld.v1.6.4633\game\Mods\HerdingDog\Source\obj\Debug\HerdingDog.csproj.CoreCompileInputs.cache
+D:\Juegos\RimWorld.v1.6.4633\game\Mods\HerdingDog\Assemblies\HerdingDog.dll
+D:\Juegos\RimWorld.v1.6.4633\game\Mods\HerdingDog\Assemblies\HerdingDog.pdb
+D:\Juegos\RimWorld.v1.6.4633\game\Mods\HerdingDog\Source\obj\Debug\HerdingDog.csproj.Up2Date
+D:\Juegos\RimWorld.v1.6.4633\game\Mods\HerdingDog\Source\obj\Debug\HerdingDog.dll
+D:\Juegos\RimWorld.v1.6.4633\game\Mods\HerdingDog\Source\obj\Debug\HerdingDog.pdb

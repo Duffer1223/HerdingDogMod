@@ -31,11 +31,11 @@ namespace HerdingDog
             if (pawn.def.defName == "HerdingDog" || (pawn.def.race != null && pawn.def.race.body?.defName == "Dog"))
             {
                 TrainableDef herdingDef = DefDatabase<TrainableDef>.GetNamedSilentFail("Pastoreo");
-                if (herdingDef != null && pawn.RaceProps.trainability != null)
+                if (herdingDef != null)
                 {
                     // Verificar si la raza puede aprender este trainable
-                    return pawn.RaceProps.trainability.trainableDefs != null && 
-                           pawn.RaceProps.trainability.trainableDefs.Contains(herdingDef);
+                    return pawn.RaceProps.specialTrainables != null &&
+                           pawn.RaceProps.specialTrainables.Contains(herdingDef);
                 }
             }
             
@@ -89,7 +89,6 @@ namespace HerdingDog
                     Plant plant = cell.GetPlant(map);
                     if (plant != null && plant.def.plant != null && 
                         (plant.def.plant.harvestedThingDef == ThingDefOf.Hay || 
-                         plant.def.plant.isGrass || 
                          plant.def == ThingDefOf.Plant_Grass))
                     {
                         grassCount++;

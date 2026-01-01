@@ -39,7 +39,7 @@ namespace HerdingDog
         private void ProcessMap(Map map)
         {
             // Obtener todos los animales con componente de pastoreo
-            foreach (Pawn animal in map.mapPawns.SpawnedPawnsSpawned)
+            foreach (Pawn animal in map.mapPawns.AllPawnsSpawned)
             {
                 if (animal == null || animal.Dead || !animal.RaceProps.Animal) continue;
 
@@ -117,7 +117,7 @@ namespace HerdingDog
             // Cambiar zona permitida a pastoreo
             if (animal.playerSettings != null)
             {
-                animal.playerSettings.AreaRestriction = comp.pastureArea;
+                animal.playerSettings.AreaRestrictionInPawnCurrentMap = comp.pastureArea;
                 comp.isGrazing = true;
             }
         }
@@ -129,7 +129,7 @@ namespace HerdingDog
             // Cambiar zona permitida de vuelta al corral
             if (animal.playerSettings != null)
             {
-                animal.playerSettings.AreaRestriction = comp.corralArea;
+                animal.playerSettings.AreaRestrictionInPawnCurrentMap = comp.corralArea;
                 comp.isGrazing = false;
             }
         }

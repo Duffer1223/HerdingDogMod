@@ -3,41 +3,14 @@
   "WorkspaceRootPath": "D:\\Juegos\\RimWorld.v1.6.4633\\game\\Mods\\HerdingDog\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Duffer\\AppData\\Local\\Temp\\tmp3C60.tmp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-0E1F2A3B4C5D}|Source\\HerdingDog.csproj|d:\\juegos\\rimworld.v1.6.4633\\game\\mods\\herdingdog\\source\\herdingdog\\zone_pasture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-0E1F2A3B4C5D}|Source\\HerdingDog.csproj|solutionrelative:source\\herdingdog\\zone_pasture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-0E1F2A3B4C5D}|Source\\HerdingDog.csproj|d:\\juegos\\rimworld.v1.6.4633\\game\\mods\\herdingdog\\source\\herdingdog\\pasturemanagerpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-0E1F2A3B4C5D}|Source\\HerdingDog.csproj|solutionrelative:source\\herdingdog\\pasturemanagerpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-0E1F2A3B4C5D}|Source\\HerdingDog.csproj|d:\\juegos\\rimworld.v1.6.4633\\game\\mods\\herdingdog\\source\\herdingdog\\herdingdogcomp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-0E1F2A3B4C5D}|Source\\HerdingDog.csproj|solutionrelative:source\\herdingdog\\herdingdogcomp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-0E1F2A3B4C5D}|Source\\HerdingDog.csproj|d:\\juegos\\rimworld.v1.6.4633\\game\\mods\\herdingdog\\source\\herdingdog\\animalcomponentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-0E1F2A3B4C5D}|Source\\HerdingDog.csproj|solutionrelative:source\\herdingdog\\animalcomponentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-0E1F2A3B4C5D}|Source\\HerdingDog.csproj|d:\\juegos\\rimworld.v1.6.4633\\game\\mods\\herdingdog\\source\\herdingdog\\pastureutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-0E1F2A3B4C5D}|Source\\HerdingDog.csproj|solutionrelative:source\\herdingdog\\pastureutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-0E1F2A3B4C5D}|Source\\HerdingDog.csproj|d:\\juegos\\rimworld.v1.6.4633\\game\\mods\\herdingdog\\source\\herdingdog\\herdingdogharmony.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-0E1F2A3B4C5D}|Source\\HerdingDog.csproj|solutionrelative:source\\herdingdog\\herdingdogharmony.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-0E1F2A3B4C5D}|Source\\HerdingDog.csproj|D:\\Juegos\\RimWorld.v1.6.4633\\game\\Mods\\HerdingDog\\source\\ia\\jobdriver_herdingdog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-0E1F2A3B4C5D}|Source\\HerdingDog.csproj|solutionrelative:source\\ia\\jobdriver_herdingdog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -46,103 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "tmp3C60.tmp.cs",
-              "DocumentMoniker": "C:\\Users\\Duffer\\AppData\\Local\\Temp\\tmp3C60.tmp.cs",
-              "ToolTip": "C:\\Users\\Duffer\\AppData\\Local\\Temp\\tmp3C60.tmp.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T04:27:00.374Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Zone_Pasture.cs",
               "DocumentMoniker": "D:\\Juegos\\RimWorld.v1.6.4633\\game\\Mods\\HerdingDog\\Source\\HerdingDog\\Zone_Pasture.cs",
               "RelativeDocumentMoniker": "Source\\HerdingDog\\Zone_Pasture.cs",
               "ToolTip": "D:\\Juegos\\RimWorld.v1.6.4633\\game\\Mods\\HerdingDog\\Source\\HerdingDog\\Zone_Pasture.cs",
               "RelativeToolTip": "Source\\HerdingDog\\Zone_Pasture.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAtwBgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T04:11:15.473Z",
+              "WhenOpened": "2026-01-01T04:51:54.707Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PastureManagerPatch.cs",
-              "DocumentMoniker": "D:\\Juegos\\RimWorld.v1.6.4633\\game\\Mods\\HerdingDog\\Source\\HerdingDog\\PastureManagerPatch.cs",
-              "RelativeDocumentMoniker": "Source\\HerdingDog\\PastureManagerPatch.cs",
-              "ToolTip": "D:\\Juegos\\RimWorld.v1.6.4633\\game\\Mods\\HerdingDog\\Source\\HerdingDog\\PastureManagerPatch.cs",
-              "RelativeToolTip": "Source\\HerdingDog\\PastureManagerPatch.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T03:57:24.749Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HerdingDogComp.cs",
-              "DocumentMoniker": "D:\\Juegos\\RimWorld.v1.6.4633\\game\\Mods\\HerdingDog\\Source\\HerdingDog\\HerdingDogComp.cs",
-              "RelativeDocumentMoniker": "Source\\HerdingDog\\HerdingDogComp.cs",
-              "ToolTip": "D:\\Juegos\\RimWorld.v1.6.4633\\game\\Mods\\HerdingDog\\Source\\HerdingDog\\HerdingDogComp.cs",
-              "RelativeToolTip": "Source\\HerdingDog\\HerdingDogComp.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAcAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T04:00:04.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AnimalComponentManager.cs",
-              "DocumentMoniker": "D:\\Juegos\\RimWorld.v1.6.4633\\game\\Mods\\HerdingDog\\Source\\HerdingDog\\AnimalComponentManager.cs",
-              "RelativeDocumentMoniker": "Source\\HerdingDog\\AnimalComponentManager.cs",
-              "ToolTip": "D:\\Juegos\\RimWorld.v1.6.4633\\game\\Mods\\HerdingDog\\Source\\HerdingDog\\AnimalComponentManager.cs",
-              "RelativeToolTip": "Source\\HerdingDog\\AnimalComponentManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T03:57:58.544Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PastureUtility.cs",
-              "DocumentMoniker": "D:\\Juegos\\RimWorld.v1.6.4633\\game\\Mods\\HerdingDog\\Source\\HerdingDog\\PastureUtility.cs",
-              "RelativeDocumentMoniker": "Source\\HerdingDog\\PastureUtility.cs",
-              "ToolTip": "D:\\Juegos\\RimWorld.v1.6.4633\\game\\Mods\\HerdingDog\\Source\\HerdingDog\\PastureUtility.cs",
-              "RelativeToolTip": "Source\\HerdingDog\\PastureUtility.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwGMAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T02:59:13.722Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HerdingDogHarmony.cs",
-              "DocumentMoniker": "D:\\Juegos\\RimWorld.v1.6.4633\\game\\Mods\\HerdingDog\\Source\\HerdingDog\\HerdingDogHarmony.cs",
-              "RelativeDocumentMoniker": "Source\\HerdingDog\\HerdingDogHarmony.cs",
-              "ToolTip": "D:\\Juegos\\RimWorld.v1.6.4633\\game\\Mods\\HerdingDog\\Source\\HerdingDog\\HerdingDogHarmony.cs",
-              "RelativeToolTip": "Source\\HerdingDog\\HerdingDogHarmony.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T03:56:05.727Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "JobDriver_HerdingDog.cs",
-              "DocumentMoniker": "D:\\Juegos\\RimWorld.v1.6.4633\\game\\Mods\\HerdingDog\\Source\\IA\\JobDriver_HerdingDog.cs",
-              "RelativeDocumentMoniker": "Source\\IA\\JobDriver_HerdingDog.cs",
-              "ToolTip": "D:\\Juegos\\RimWorld.v1.6.4633\\game\\Mods\\HerdingDog\\Source\\IA\\JobDriver_HerdingDog.cs",
-              "RelativeToolTip": "Source\\IA\\JobDriver_HerdingDog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T02:43:10.46Z"
             }
           ]
         }
